@@ -1,6 +1,9 @@
 # Snowfall-Data-Analysis-and-Visualization
 In this project, we aim to do a comparative analysis of the historical patterns of snowfall data using big data technologies and visualize it using ArcGIS. This will help to get meaningful insights from this massive data and predict the snowfall pattern for which we use ML algorithms.
 
+<img width="1045" alt="Screenshot 2023-06-19 at 12 12 53 PM" src="https://github.com/Shadhrush5/Snowfall-Data-Analysis-and-Visualization/assets/119898772/81cba8e8-2267-47fe-b154-c7c1239778d1">
+
+
 ## Overview of the components
 
 <img width="644" alt="Screenshot 2023-06-19 at 11 01 57 AM" src="https://github.com/Shadhrush5/Snowfall-Data-Analysis-and-Visualization/assets/119898772/3f2c2d99-fd91-44b9-9bf3-526b6b5946b6">
